@@ -1,83 +1,144 @@
-# Sample Inputs – Zero-Shot, One-Shot & Few-Shot Learning Activity (main.py)
+# Sample Inputs – AI Writing Assistant (main.py)
 
-Use these sample inputs when the program asks for:
-1) **Category**  
-2) **Specific item to classify**  
-
-Copy and paste **one sample set at a time**.
+Use these sample inputs when running the **AI Writing Assistant** activity.
+Enter the inputs **exactly when prompted**.
 
 ---
 
-## Sample Run 1 (Animal)
+## Sample Run 1: Argumentative Essay (Full Draft)
 
-### Category
+### 1) Essay Topic
 ```
-animal
-```
-
-### Specific item to classify
-```
-dolphin
+Impact of social media on teenagers
 ```
 
----
-
-## Sample Run 2 (Food)
-
-### Category
+### 2) Essay Type
 ```
-food
+argumentative
 ```
 
-### Specific item to classify
+### 3) Select Essay Word Count
 ```
-pizza
+2
+```
+*(900 words)*
+
+### 4) Target Audience
+```
+High school students
 ```
 
----
-
-## Sample Run 3 (City)
-
-### Category
+### 5) Temperature
 ```
-city
+0.5
 ```
 
-### Specific item to classify
+### 6) Body Writing Choice
 ```
-Tokyo
+1
+```
+*(Full draft)*
+
+### 7) Satisfaction Rating
+```
+4
 ```
 
----
-
-## Sample Run 4 (Sport)
-
-### Category
+### 8) Feedback
 ```
-sport
-```
-
-### Specific item to classify
-```
-cricket
+Make the tone slightly more formal and add one real-life example.
 ```
 
 ---
 
-## Sample Run 5 (Instrument)
+## Sample Run 2: Informative Essay (Step-by-Step)
 
-### Category
+### 1) Essay Topic
 ```
-musical instrument
+Climate change and its effects
 ```
 
-### Specific item to classify
+### 2) Essay Type
 ```
-guitar
+informative
+```
+
+### 3) Select Essay Word Count
+```
+1
+```
+*(300 words)*
+
+### 4) Target Audience
+```
+Middle school students
+```
+
+### 5) Temperature
+```
+0.3
+```
+
+### 6) Body Writing Choice
+```
+2
+```
+*(Step-by-step arguments)*
+
+### 7) Satisfaction Rating
+```
+5
 ```
 
 ---
 
-## Tip
-- Try changing only the **item** while keeping the **category** the same to see how the model reacts.
-- The last section uses your **item** as the story word, so pick something fun.
+## Sample Run 3: Narrative Essay (Creative)
+
+### 1) Essay Topic
+```
+A journey that changed my life
+```
+
+### 2) Essay Type
+```
+narrative
+```
+
+### 3) Select Essay Word Count
+```
+3
+```
+*(1200 words)*
+
+### 4) Target Audience
+```
+General readers
+```
+
+### 5) Temperature
+```
+0.7
+```
+
+### 6) Body Writing Choice
+```
+1
+```
+*(Full draft)*
+
+### 7) Satisfaction Rating
+```
+3
+```
+
+### 8) Feedback
+```
+Add more emotional details and improve the conclusion.
+```
+
+---
+
+## Tips
+- Use **low temperature (0.1–0.3)** for structured, factual essays.
+- Use **higher temperature (0.6–0.7)** for creative or narrative writing.
+- Step-by-step mode is useful for planning before writing a full essay.
