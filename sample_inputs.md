@@ -1,144 +1,43 @@
-# Sample Inputs – AI Writing Assistant (main.py)
+# AI Teaching Assistant — sample inputs (Streamlit)
 
-Use these sample inputs when running the **AI Writing Assistant** activity.
-Enter the inputs **exactly when prompted**.
+Below are copy‑paste ready **sample questions** you can type into the Streamlit input box.
 
----
+## Science
+- What is photosynthesis? Explain in 5 simple points.
+- Why do we see lightning before we hear thunder?
+- What is the difference between renewable and non‑renewable energy?
 
-## Sample Run 1: Argumentative Essay (Full Draft)
+## Math
+- Explain the Pythagoras theorem with one real‑life example.
+- Solve 3x + 7 = 22 and show steps.
+- What is the difference between area and perimeter?
 
-### 1) Essay Topic
-```
-Impact of social media on teenagers
-```
+## History
+- Who was Ashoka, and why is he important in Indian history?
+- What caused World War 1? Explain in short points.
+- What is the Silk Road and why was it important?
 
-### 2) Essay Type
-```
-argumentative
-```
+## Geography
+- What are the layers of the Earth? Explain each briefly.
+- Why do deserts receive very little rainfall?
+- What is the difference between weather and climate?
 
-### 3) Select Essay Word Count
-```
-2
-```
-*(900 words)*
+## English / Writing
+- Write a short paragraph on “My favourite hobby” (80–100 words).
+- Improve this sentence: “He go to school everyday.”
+- Give 10 synonyms for “happy” with meanings.
 
-### 4) Target Audience
-```
-High school students
-```
+## Computer science
+- What is an algorithm? Give 2 examples.
+- Explain what a variable is in Python with a simple example.
+- What is the difference between the internet and the web?
 
-### 5) Temperature
-```
-0.5
-```
+## General knowledge
+- What is the difference between a planet and a star?
+- Explain the human digestive system in 6 steps.
+- What are the three branches of government? Explain briefly.
 
-### 6) Body Writing Choice
-```
-1
-```
-*(Full draft)*
-
-### 7) Satisfaction Rating
-```
-4
-```
-
-### 8) Feedback
-```
-Make the tone slightly more formal and add one real-life example.
-```
-
----
-
-## Sample Run 2: Informative Essay (Step-by-Step)
-
-### 1) Essay Topic
-```
-Climate change and its effects
-```
-
-### 2) Essay Type
-```
-informative
-```
-
-### 3) Select Essay Word Count
-```
-1
-```
-*(300 words)*
-
-### 4) Target Audience
-```
-Middle school students
-```
-
-### 5) Temperature
-```
-0.3
-```
-
-### 6) Body Writing Choice
-```
-2
-```
-*(Step-by-step arguments)*
-
-### 7) Satisfaction Rating
-```
-5
-```
-
----
-
-## Sample Run 3: Narrative Essay (Creative)
-
-### 1) Essay Topic
-```
-A journey that changed my life
-```
-
-### 2) Essay Type
-```
-narrative
-```
-
-### 3) Select Essay Word Count
-```
-3
-```
-*(1200 words)*
-
-### 4) Target Audience
-```
-General readers
-```
-
-### 5) Temperature
-```
-0.7
-```
-
-### 6) Body Writing Choice
-```
-1
-```
-*(Full draft)*
-
-### 7) Satisfaction Rating
-```
-3
-```
-
-### 8) Feedback
-```
-Add more emotional details and improve the conclusion.
-```
-
----
-
-## Tips
-- Use **low temperature (0.1–0.3)** for structured, factual essays.
-- Use **higher temperature (0.6–0.7)** for creative or narrative writing.
-- Step-by-step mode is useful for planning before writing a full essay.
+## Fun / Creative
+- Write a 5‑line story about a robot and a cat.
+- Create 3 quiz questions (with answers) on space.
+- Give me 5 riddles for kids with answers.
